@@ -1,0 +1,111 @@
+Linux学习书籍求推荐 
+1、《Linux与Unix Shell 编程指南》 
+C语言基础 
+1、《C Primer Plus，5th Edition》【美】Stephen Prata著 
+2、《The C Programming Language, 2nd Edition》【美】Brian W. Kernighan David M. Rithie（K & R）著 
+3、《Advanced Programming in the UNIX Environment，2nd Edition》（APUE） 
+4、《嵌入式Linux应用程序开发详解》 
+Linux内核 
+1、《深入理解Linux内核》（第三版） 
+2、《Linux内核源代码情景分析》毛德操 胡希明著 
+研发方向 
+1、《UNIX Network Programming》（UNP） 
+2、《TCP/IP详解》 
+3、《Linux内核编程》 
+4、《Linux设备驱动开发》（LDD） 
+硬件基础 
+1、《ARM体系结构与编程》杜春雷著 
+2、S3C2410 Datasheet 
+英语基础 
+1、《计算机与通信专业英语》 
+系统教程 
+1、《嵌入式系统――体系结构、编程与设计》 
+2、《嵌入式系统――采用公开源代码和StrongARM/Xscale处理器》毛德操 胡希明著 
+3、《Building Embedded Linux Systems》 
+理论基础 
+1、《算法导论》 
+2、《数据结构（C语言版）》 
+3、《计算机组织与体系结构?性能分析》 
+4、《深入理解计算机系统》【美】Randal E. Bryant David O’Hallaron著 
+5、《操作系统：精髓与设计原理》 
+6、《编译原理》 
+7、《数据通信与计算机网络》 
+8、《数据压缩原理与应用》 
+入门篇 
+《LINUX权威指南》书不错，写的很全面也比较广，涉及的不深，做为入门书籍不错，可以比较全面的了解linux 。另外比较热门的也可以看看《鸟哥的私房菜》等书，偏管理类的书。如果想做server方向的可以找来看看。 
+驱动 篇 
+《LINUX设备驱动程序 》就是网上说的“LDD”，经典之作，必备书籍。国产经典《Linux驱动详细解》也是一本非常不错的书，很实用，书中源代码分析比较多，基于2440的，对linux外围驱动有很全面的讲解 
+内核篇 
+浙江大学的《LINUX内核源代码情景分析》，外国鬼子的《莱昂氏UNIX源代码分析》还有《深入理解linux内核》都是出名的经典巨作。另外赵 炯的《LINUX内核完全剖析–基于0.12内核》也非常不错，对内核代码进行了详细的注释，非常有助于对内核的理解和代码的分析。 
+shell篇 
+《LINUX与UNIX Shell编程指南》 
+应用 编程 
+不用说了肯定是《unix环境高级编程》被称为unix编程的圣经。 
+TCP/IP篇 
+《TCP/IP详解》作者W.Richard Stevens也是《unix环境高级编程》的作者，牛人出的书没有一本不是经典的。但是英年早逝，默哀一下。 
+c语言 
+《The C Programming Language》正是作者造出来的c语言，书能垃圾就怪了 
+《c和指针》和《c缺陷和陷阱》两本必备。包含了c语言最容易出错的地方，加深c语言功力的好材料。 
+关于算法 
+《算法导论》 
+1 熟悉linux基本环境 >>> 《鸟哥的私访菜》《unix初级教程》 《linux编程宝典》（市面上无，图书馆有）， 等等。 
+2 熟悉操作系统的基础知识 >>> 《现代操作系统》 《操作系统概念》 
+3 熟悉系统编程 >>> 《unix环境高级编程第二版》《unix操作系统设计与实现》 
+4 内核 按先后顺序： 《 linux内核设计与实现》 《linux设备驱动程序》 《深入理解 linux内核》 《linux内核源代码情景分析》 《深入理解linux虚拟内存系统》 
+5 其他一些书籍： 《freebsd操作系统设计与实现》 《solaris内核结构》 《unix高级教程：系统技术内幕》 《现代体系结构的unix系统：内核程序员的smp与cache技术》 《保护方式下的80386及其编程》 （后3本市面上没了，大学图书馆里一般都有》 《Intel64 and IA-32 Arichitectures Software Developer’s Manual》 
+6 其实内核玩深了，体系和编译也要学好 《计算机体系结构：量化研究方法》 《编译原理》（龙书） 
+
+Linux编程推荐书籍一览表 
+shell 编程 
+《LINUX与UNIX SHELL编程指南》 
+BASH宝典： 
+Advanced Bash Scripting Guide (如果你使用的是 GNU/Debian 系统，可以用 apt-get install abs-guide 安装该文档) 
+BASH Programming – Introduction HOW-TO 
+Bash Man 
+
+用户级编程书籍： 
+Advanced Programming in the UNIX Environment（中文版《UNIX环境高级编程》第二版） 作者 W.Richard 
+Stevens/尤晋元等 
+GNU/Linux编程指南 作者 Kurt Wall 
+Linux 程序设计权威指南 作者 于明俭、陈向阳、方汉 
+《The Art of Unix Programming》作者 E.S.R 
+Computer Systems A Programmer’s Perspective 
+（中文名）《深入理解计算机系统（修订版）》 
+《Unix Systems Programming》(中文版《UNIX系统编程》)作者： （美）KAY 
+A.ROBBINS, STEVE ROBBINS 译者：陈涓 赵振平 
+网络编程： 
+Unix Network Programming V1 & V2,Unix网络编程卷1、2 作者 W.Richard Stevens 
+《unix网络编程》 
+XWindow编程 
+Definitive Guides to the X WindowSystem 作者 Dan Heller, Paula M. Ferguson 
+
+内核源代码阅读(结合源代码)和编程 
+（入门） 
+《边干边学Linux内核指导》 
+（高级） 
+《Linux Kernel Development》 
+《Linux内核源代码情景分析》 
+《深入分析Linux内核源代码》 陈莉君 
+《 Understanding Linux Network Internals 》即《 深入理解Linux网络内幕（英文影印版）》Christian Benvenuti 
+内核模块编程 
+《The Linux Kernel Module Programming Guide》 
+Linux设备驱动编程 
+Linux设备驱动程序/Linux Device 
+Drivers 作者 Alessandro Ruibini 
+多线程编程 
+《多线程编程指南》
+
+
+
+C++ Primer
+Unix 环境高级编程（APUE）
+Unix网络编程 1/2卷（UNP）
+TCP/IP协议详解
+深入理解计算机系统
+Effective C++
+UNIX编程艺术 
+
+
+《代码整洁之道》
+《重构——改善既有代码的设计》
+《代码大全》
